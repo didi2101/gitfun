@@ -1,0 +1,24 @@
+From 95c1bd5329b728d50c35a2864af9fc6b3ab7fc80 Mon Sep 17 00:00:00 2001
+From: didi2101 <diegodasilva2101@gmail.com>
+Date: Tue, 28 Nov 2023 19:10:24 +0100
+Subject: [PATCH] SALUT!!
+
+Je voulais mettre salut
+---
+ src/main/scala/Main.scala | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/main/scala/Main.scala b/src/main/scala/Main.scala
+index a0c585f..ac7b824 100644
+--- a/src/main/scala/Main.scala
++++ b/src/main/scala/Main.scala
+@@ -1,5 +1,6 @@
+ @main def hello: Unit =
+   println("Hello world!")
+   println(msg)
++  println("Salut!!")
+ 
+ def msg = "I was compiled by Scala 3. :)"
+-- 
+2.43.0.windows.1
+
